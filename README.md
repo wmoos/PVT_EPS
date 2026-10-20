@@ -1,5 +1,5 @@
 ### PVT_EPS_V01  
-**The Projection \(m c^2 = f^2 \frac{T}{r}\) in the Epistemic Context**  
+**The Projection mc² = f²·T/r in the Epistemic Context**  
 Part of the *Monistic Continuum Model (MCM)* Series  
 Author: **Walter Moosbrugger (Wels, AT)**  
 DOI: 10.5281/zenodo.23495063  
