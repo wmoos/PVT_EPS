@@ -1,13 +1,13 @@
-# PVT_EPS_V01  
+### PVT_EPS_V01  
 **The Projection \(m c^2 = f^2 \frac{T}{r}\) in the Epistemic Context**  
 Part of the *Monistic Continuum Model (MCM)* Series  
 Author: **Walter Moosbrugger (Wels, AT)**  
-DOI: 10.5281/zenodo.xxxxxxx  
+DOI: 10.5281/zenodo.23495063  
 License: CC BY 4.0
 
 ---
 
-## Overview
+### Overview
 
 This repository contains the official reference version of  
 **PVT_EPS_V01: “The Projection \(m c^2 = f^2 \frac{T}{r}\) in the Epistemic Context”**,  
@@ -47,7 +47,7 @@ and **r** (update‑rate stabilization), the work explains:
 
 ---
 
-## Contents
+### Contents
 
 - Ontological derivation of the energy form \(E = f^2 T/r\)  
 - Epistemic interpretation of the projection \(m c^2\)  
@@ -60,7 +60,7 @@ and **r** (update‑rate stabilization), the work explains:
 
 ---
 
-## Keywords
+### Keywords
 
 continuum-model, monistic-continuum-model, MCM, PVT_EPS, projection-vector-theory,  
 planck-vortex-theory, rotational-dynamics, pre-spatial-medium, continuum-rotation,  
