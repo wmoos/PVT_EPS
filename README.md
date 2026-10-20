@@ -42,7 +42,7 @@ medium-tension, update-rate, epistemic-limit, falsifiability, continuum-ontology
 Moosbrugger, W. (2026).  
 *PVT_EPS_V01: “The Projection \(m c^2 = f^2 \frac{T}{r}\) in the Epistemic Context”*.  
 Part of the *Monistic Continuum Model (MCM)* series.  
-Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
+Zenodo. https://doi.org/10.5281/zenodo.23495063
 
 **BibTeX**
 
@@ -52,8 +52,8 @@ Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
     title     = {PVT_EPS_V01: "The Projection m c^2 = f^2 T/r in the Epistemic Context"},
     year      = {2026},
     publisher = {Zenodo},
-    doi       = {10.5281/zenodo.xxxxxxx},
-    url       = {https://doi.org/10.5281/zenodo.xxxxxxx},
+    doi       = {10.5281/zenodo.23495063},
+    url       = {https://doi.org/10.5281/zenodo.23495063},
     note      = {Version 01, MCM --- Theoretical Document}
 }
 
