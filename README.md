@@ -15,17 +15,6 @@ The document further analyzes the correspondence between the ontological energy 
 
 PVT_EPS_V01 clarifies that physics measures stabilized projections, while the MCM describes the underlying ontological cause. It provides the epistemic foundation for understanding why physical constants such as m, c, and h appear stable, and how they originate from deeper pre‑spatial dynamics.
 
-### Contents
-
-- Ontological derivation of the energy form \(E = f^2 T/r\)  
-- Epistemic interpretation of the projection \(m c^2\)  
-- Emergence of space and matter  
-- Correspondence with QM, QFT, ART  
-- Hypothetical physics using \(E = f f\) instead of \(E = f h\)  
-- Universal influence of \(T/r\) in classical and modern physics  
-- Falsifiability limits and measurement boundaries  
-- Full citation and DOI information
-
 ---
 
 ### Keywords
