@@ -7,45 +7,13 @@ License: CC BY 4.0
 
 ---
 
-### Overview
+This document presents the official reference version of PVT_EPS_V01: “The Projection mc² = f²·T/r in the Epistemic Context”. It is published as an independent theoretical work within the Monistic Continuum Model (MCM) series and archived on Zenodo with a permanent DOI.
 
-This repository contains the official reference version of  
-**PVT_EPS_V01: “The Projection \(m c^2 = f^2 \frac{T}{r}\) in the Epistemic Context”**,  
-an independent theoretical work within the **Monistic Continuum Model (MCM)** series.
+The study derives the ontological energy form E = f²·T/r from the pre‑spatial dynamics of the MCM and demonstrates that the physical equation E = mc² is a stabilized projection of the same underlying structure. Using the fundamental quantities f, T, and r, the work shows how space emerges through the projection c = f and how matter arises through m = T/r. In the stabilized limit r → 1, mass becomes identical to the pre‑spatial tension T, revealing the epistemic boundary of physical measurability.
 
-The document derives the ontological energy form
+The document further analyzes the correspondence between the ontological energy form and the physical laws of quantum mechanics (QM), quantum field theory (QFT), and general relativity (ART). It also explores a hypothetical physics in which the quadratic rotational energy f² would have been used instead of the linear projection E = f·h, and discusses the universal role of T/r across all physical laws.
 
-
-
-\[
-E = f^2 \frac{T}{r}
-\]
-
-
-
-from the pre‑spatial rotational dynamics of the continuum medium and shows that the
-physical equation
-
-
-
-\[
-E = m c^2
-\]
-
-
-
-is a stabilized projection of the same underlying structure.
-
-Using the fundamental quantities **f** (rotational frequency), **T** (medium tension),  
-and **r** (update‑rate stabilization), the work explains:
-
-- the emergence of **space** via the projection \(c = f\),  
-- the emergence of **matter** via \(m = T/r\),  
-- the epistemic boundary of physical measurability,  
-- the correspondence between QM, QFT and ART,  
-- and the universal role of \(T/r\) across all physical laws.
-
----
+PVT_EPS_V01 clarifies that physics measures stabilized projections, while the MCM describes the underlying ontological cause. It provides the epistemic foundation for understanding why physical constants such as m, c, and h appear stable, and how they originate from deeper pre‑spatial dynamics.
 
 ### Contents
 
